@@ -1,6 +1,15 @@
+# What-are-we-eating-today？
+
+## How to use
+
+Since it is deployed on Vercel, please connect to a VPN before use.([web](https://nextjs-dlkq-lb39sif1l-fan-zhangs-projects-8d3e843f.vercel.app/))
+因为部署在Vercel,请连接VPN后使用。
+<img width="1853" height="1347" alt="image" src="https://github.com/user-attachments/assets/9d84e209-8c1b-424d-a9ce-ae1b1e809c76" />
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
-## Getting Started
+## Development
 
 First, run the development server:
 
